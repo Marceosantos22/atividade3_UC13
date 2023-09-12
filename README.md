@@ -6,9 +6,9 @@ Em outro projeto da empresa na qual você trabalha, você precisará usar seus c
 ### Atividade
 Observe os wireframes a seguir. Eles mostram a página com a opção Pix selecionada e com a opção Cartão de crédito selecionada.
 
-![Wireframe 01](./Wireframe/wire-ativ3-1.png)
+![Wireframe 01]( ./Wireframes/wire-ativ3-1.png )
 
-![Wireframe 02](./Wireframe/wire-ativ3-2.png)
+![Wireframe 02]( ./Wireframe/wire-ativ3-2.png)
 
 
 Baseando-se nos wireframes, construa uma página HTML e programe os seguintes comportamentos:
