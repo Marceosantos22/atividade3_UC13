@@ -8,7 +8,7 @@ Observe os wireframes a seguir. Eles mostram a página com a opção Pix selecio
 
 ![Wireframe 01]( ./Wireframes/wire-ativ3-1.png )
 
-![Wireframe 02]( ./Wireframe/wire-ativ3-2.png)
+![Wireframe 02]( ./Wireframe/wire-ativ3-2.png )
 
 
 Baseando-se nos wireframes, construa uma página HTML e programe os seguintes comportamentos:
